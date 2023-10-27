@@ -54,6 +54,23 @@ Careful, Agent. Rebels are crawling all over the place.
 I've got this area secured.
 """
 
+'''
+# input_layer  -> (Values, Weights)
+# hidden_layer -> (Weights, Biases, Activation Function)
+# output_layer -> (Values, Biases)
+
+class input_data:
+
+
+class neural_network:
+	def __init__(Dataset, )
+'''
+
+def sigmoid(Value):
+	Result = math.exp(-Value)
+	return Result
+
+
 
 def print_slowly():
 	the_list = THING.split(' ')
